@@ -98,7 +98,7 @@ Based on the analysis:
 - Develop personalized retention strategies using customer behavior.
 
 ## Project Structure
-
+```text
 Customer Churn Analysis
 │
 ├── data
@@ -118,6 +118,7 @@ Customer Churn Analysis
 │   └── churn_by_payment_method.png
 │
 └── README.md
+```
 
 ## Conclusion
 
