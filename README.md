@@ -126,4 +126,5 @@ This project provided practical experience in data cleaning, exploratory data an
 
 ## Author
 
+Kriti Kumari
 B.Tech CSE 
